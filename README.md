@@ -3,6 +3,9 @@
 
 This repository contains codes related to the course "Computers, waves, simulations" of professor Heiner Igel.
 
+## My-Jupyter-Notebooks
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/emiliahartmann/computational_seismology/HEAD)
+
 
 
 
